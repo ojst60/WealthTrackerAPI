@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "babel-node": "babel-node -x .ts -- src/index.ts",
-    "run-dev": "nodemon"
+    "dev": "nodemon"
   },
   "author": "",
   "license": "ISC",
